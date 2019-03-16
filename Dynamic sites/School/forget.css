@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+.maindiv {
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border: 2px solid lightgray;
+    width: 550px;
+    height: 300px;
+}
+.labelcss {
+    font-size: 20px;
+}
+.para {
+    font-size: 15px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.div1 {
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.inputcss {
+    width: 450px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.div3 {
+    border: 2px solid lightgray;
+    width: 100%;
+    height: 52px;
+    margin-top: 50px;
+}
+.btn {
+    width: 90px;
+    height: 30px;
+    border-radius: 20px;
+}
+.bton {
+    margin-top: 10px;
+    margin-left: 350px;
+    color: red;
+}

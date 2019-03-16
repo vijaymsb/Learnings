@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Stars</title>
+</head>
+<body>
+    <script>
+        let rows = 5;
+        let arr = '';
+        for (let i = 1; i <= rows; i++){
+            for(let j = 1; j <= (rows - i); j++){
+                arr = arr + '';
+            }
+            for(let k = 1; k <= i; k++){
+                arr = arr + '*';
+            }
+            console.log(arr);
+            arr = '';
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,102 @@
+.mainheading {
+    margin-top: 80px;
+    padding-top: 50px;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 60px;
+    color:gray;
+}
+.mainheading span {
+    color: orange;
+}
+.maindiv {
+    width: 98%;
+    height: 2150px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightblue;
+    border-radius: 20px;
+}
+.maindiv h1 span {
+    font-size: 60px;
+    color: red;
+}
+.font1 {
+    float: right;
+    width: 45%;
+    height: 300px;
+}
+.font2 {
+    float: left;
+    width: 45%;
+    height: 300px;
+}
+.font1 h1 {
+    padding-top: 50px;
+    padding-left: 130px;
+    font-size: 40px;
+}
+.font2 h1 {
+    padding-top: 50px;
+    padding-left: 150px;
+    font-size: 40px;
+}
+.font1 p {
+    padding-top: 40px;
+    font-size: 15px;
+}
+.font2 p {
+    padding-top: 40px;
+    font-size: 15px;
+}
+.font h1 {
+    padding-left: 90px;
+}
+.data1 {
+    float: left;
+    background: url(img/mytho.jpeg) center center/cover;
+    border-radius: 10px;
+    width: 45%;
+    height: 300px;
+}
+.data2 {
+    float: right;
+    background: url(img/wvs.jpeg) center center/cover;
+    border-radius: 10px;
+    width: 45%;
+    height: 300px;
+}
+.data3 {
+    float: left;
+    background: url(img/entpre.jpeg) center center/cover;
+    border-radius: 10px;
+    width: 45%;
+    height: 300px;
+}
+.data4 {
+    float: right;
+    background: url(img/sp10.jpg) center center/cover;
+    border-radius: 10px;
+    width: 45%;
+    height: 300px;
+}
+.data5 {
+    float: left;
+    background: url(img/sp7.jpg) center center/cover;
+    border-radius: 10px;
+    width: 45%;
+    height: 300px;
+}
+.data6 {
+    float: right;
+    background: url(img/sp11.jpg) center center/cover;
+    border-radius: 10px;
+    width: 45%;
+    height: 300px;
+}
+.text {
+    width: 100%;
+    padding: 50px;
+    height: 300px;
+  }

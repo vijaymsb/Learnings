@@ -1,0 +1,201 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.7em;
+}
+a {
+    color: #333;
+    text-decoration: none
+}
+h1 {
+    padding-bottom: 20px;
+}
+.homemaindiv1 {
+    margin: auto;
+    max-width: 1500px;
+}
+.homemaindiv1 h1 {
+    font-size: 10px;
+    padding-left: 50px;
+    padding-bottom: 5px;
+}
+.homemaindiv1 h1 span {
+    font-size: 40px;
+    color: orangered;
+}
+.homemaindiv2 {
+    margin: auto;
+    padding-top: 35%;
+    max-width: 1300px;
+}
+.homepara {
+    font-size: 20px;
+}
+.homeheading {
+    color: white;
+}
+.homeheading span {
+    color: rgba(255, 68, 0, 0.89);
+    font-size: 45px;
+}
+.showcase-content p {
+    color: lightskyblue;
+    padding-bottom: 20px;
+}
+#navbar {
+    top: 0%;
+    position: fixed;
+    width: 100%;
+    background: #333;
+    color: #fff;
+    overflow: auto;
+}
+#navbar a {
+    color: #fff;
+}
+#navbar h1 {
+    float: left;
+    padding-top: 20px;
+}
+#navbar ul {
+    list-style: none;
+    float: right;
+}
+#navbar ul li {
+    float: left;
+}
+#navbar ul li a {
+    display: block;
+    padding: 20px;
+    text-align: center;
+}
+#navbar ul li a:hover,
+#navbar ul li a.current {
+    background: #444;
+    color: #f7c08a;
+}
+.showcase {
+    background: url(img/home.jpg) no-repeat center center/cover;
+    height: 630px;
+    margin-top: 65px
+}
+.branch1 {
+    float: left;    
+    padding: 60px;
+    padding-top: 250px;
+    width: 40%;
+    height: 750px;
+}
+.school {
+    background: url(img/gv.jpg) center center/cover;
+    filter: contrast(50%);
+    color: white;
+    width: 100%;
+    height: 750px;
+}
+.branch1 h1 {
+    font-size: 25px;
+    color: blue;
+}
+.branch2 {
+    float: left;
+    width: 60%;
+    height: 750px;
+}
+.grade1 {
+    float: left;
+    padding: 50px;
+    width: 50%;
+    height: 250px;
+}
+.grade2 {
+    float: right;
+    padding: 50px;
+    width: 50%;
+    height: 250px;
+}
+.grade1 h1, .grade2 h1 {
+    font-size: 20px;
+    color: teal;
+}
+.grade1 p, .grade2 p {
+    font-size: 15px;
+}
+.branch3 {
+    clear: both;
+    text-align: center;
+    background-color: lightgray;
+    padding: 40px;
+    padding-top: 50px;
+    width: 100%;
+    height: 250px;
+}
+.branch3 h1 {
+    color: gray;
+    font-size: 50px;
+    font-weight: lighter;
+}
+.branch4 {
+    width: 100%;
+    height: 700px;
+    background: #333;
+}
+.image3 {
+    float: left;
+    background: url(img/grd3.jpeg) center center/cover;
+    margin: 1% 1%;
+    width: 100%;
+    height: 300px;
+}
+.image4 {
+    float: left;
+    background: url(img/grd4.jpg) center center/cover;
+    margin: 1% 1%;
+    width: 100%;
+    height: 300px;
+}
+.image5 {
+    float: left;
+    background: url(img/grd5.jpg) center center/cover;
+    margin: 1% 1%;
+    width: 100%;
+    height: 300px;
+}
+.image6 {
+    background: url(img/bg2.jpg) center center/cover;
+    width: 100%;
+    height: 400px;
+    filter: contrast(50%);
+}
+.grade {
+    padding-top: 60px;
+    float: left;
+    margin: 1% 1%;
+    width: 31%;
+    color: white;
+}
+.grade h1 {
+    color: gray;
+}
+.value {
+    float: left;
+    width: 33.3%;
+    text-align: center;
+    color: white;
+    padding-top: 150px;
+    font-size: 25px;
+}
+#main-footer {
+    position: fixed;
+    text-align: left;
+    bottom: 0%;
+    width: 100%;
+    background: #333;
+    color: #fff;
+    overflow: auto;
+}
+

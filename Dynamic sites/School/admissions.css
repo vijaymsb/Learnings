@@ -1,0 +1,56 @@
+.heading {
+    margin-top: 100px;
+    color: orangered;
+    text-align: center;
+    padding: 20px;
+}
+.heading2 {
+    text-align: center;
+    padding: 10px;
+}
+.cat {
+    padding-top: 20px;
+}
+
+.gender {
+    margin-left: 20px;
+}
+.parent {
+    width: 1060px;
+    height: 25px;
+    margin-left: 25px;
+}
+.cssinput {
+    width: 1200px;
+    height: 25px;
+    margin-left: 20px;
+}
+.inputcss {
+    margin-left: 20px;
+}
+.el {
+    padding-bottom: 25px;
+    height: 50px;
+}
+.button-css {
+    margin-top: 30px;
+    margin-left: 40%;
+    width: 100px;
+    border-radius: 25px;
+    background-color: white;
+    color: black solid;
+}
+.div-css {
+    padding-top: 30px;
+}
+.maindiv {
+    margin-bottom: 50px;
+    padding: 30px;
+    background-color: whitesmoke;
+    margin-left: 15px;
+    border: 1px solid black;
+    width: 1320px;
+    height: 1200px;
+    border-radius: 20px;
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.2);
+}

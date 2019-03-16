@@ -1,0 +1,58 @@
+body {
+    background: url(img/bg1.jpg) center center/cover;
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.2);
+}
+.heading {
+    margin-top: 10px;
+    color: orangered;
+    text-align: center;
+    padding: 20px;
+}
+.divcss {
+    padding: 10px;
+}
+.inputcss {
+    width: 300px;
+    height: 25px;
+    margin-left: 50px;
+    border-radius: 25px;
+    color: black;
+    background-color: white;
+}
+.labelcss {
+    color: black;
+    margin-left: 70px;
+    filter: alpha(opacity=60);
+}
+.extra {
+    color: black;
+    margin-left: 160px;
+}
+.x {
+    padding-top: 20px;
+    margin-left: 105px;
+}
+.maindiv {
+    background-color: lightgray;
+    margin-top: 132px;
+    margin-left: 480px;
+    border: 1px solid black;
+    width: 410px;
+    height: 400px;
+    border-radius: 20px;
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.2);
+}
+.button-css {
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 200px;
+    border-radius: 25px;
+    background-color: orangered;
+    color: black;
+}
+
+#main-footer {
+    margin-top: 140px;
+    color: black;
+}
+

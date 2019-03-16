@@ -1,0 +1,37 @@
+.maindiv {
+    margin-top: 67px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.image {
+    background: url(img/pci.jpg) center bottom/cover;
+    width: 100%;
+    height: 400px;
+}
+.heading {
+    color: whitesmoke;
+    padding-top: 320px;
+    padding-left: 20px;
+    font-size: 45px;
+}
+.outdiv1 {
+    margin-top: 100px;
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+.outdiv2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+
+.maindiv1 {
+    width: 100%;
+}
+.maindiv2 {
+    width: 100%;
+}
