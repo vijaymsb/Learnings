@@ -52,7 +52,6 @@ h1 {
     width: 100%;
     background: #333;
     color: #fff;
-    overflow: auto;
 }
 #navbar a {
     color: #fff;
@@ -198,4 +197,5 @@ h1 {
     color: #fff;
     overflow: auto;
 }
+
 
