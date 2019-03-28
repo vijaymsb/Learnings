@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Flex Box Basics</title>
+    <style>
+        #container1 {
+            display: flex;
+            /* flex-direction: row;  (or) flex-flow
+            flex-wrap: wrap;         (or) flex-flow  */
+            flex-flow: row wrap;
+        }
+        .item {
+            background: #f4f4f4;
+            border: #ccc solid 1px;
+            padding: 1rem;
+            text-align: center;
+            margin: 1rem;
+            flex: 1;
+        }
+        .item:first-child {
+            flex: 2;
+        }
+    </style>
+</head>
+<body>
+    <div id="container1">
+        <div class="item"><h3>item 1</h3></div>
+        <div class="item"><h3>item 2</h3></div>
+        <div class="item"><h3>item 3</h3></div>
+        <div class="item"><h3>item 4</h3></div>
+        <div class="item"><h3>item 5</h3></div>
+        <div class="item"><h3>item 6</h3></div>
+        <div class="item"><h3>item 7</h3></div>
+        <div class="item"><h3>item 8</h3></div>
+        <div class="item"><h3>item 9</h3></div>
+</body>
+</html>
